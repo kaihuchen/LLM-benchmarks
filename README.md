@@ -1,4 +1,4 @@
-# Open-source Test Datasets for Multimodal LLMs (Large Language Models)
+# Open-source Benchmarks for Multimodal LLMs (Large Language Models)
 
 This repository is meant to be the home for a collection of many collections of datasets for testing the vision performance of a Multimodal Large Language Model.
 
