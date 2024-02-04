@@ -1,10 +1,10 @@
-# Open-source Benchmarks for Multimodal LLMs (Large Language Models)
+# Open-source Benchmarks for LMMs (Large Multimodal Models)
 
-This repository is meant to be the home for a collection of many collections of datasets for testing the vision performance of a Multimodal Large Language Model.
+This repository is meant to be the home for a collection of many collections of datasets for testing the vision performance of a LMM.
 
 ## Background
 
-Multimodal LLMs have become practical as a new tool for performing visual recognition from an image, with the ability to identify multiple objects, their relationship, the environment, assessment of the overall situation per a certain given goal, suggest the best course of commonsense actions, and explain the actions.
+LMMs have become practical as a new tool for performing visual recognition from an image, with the ability to identify multiple objects, their relationship, the environment, assessment of the overall situation per a certain given goal, suggest the best course of commonsense actions, and explain the actions.
 
 For example, in the context of level 5 autonomous driving, a single test case might look like the following:
 
